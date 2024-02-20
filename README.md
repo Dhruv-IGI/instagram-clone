@@ -26,12 +26,17 @@ This Flutter-based Instagram clone app replicates the core functionalities of th
 - **lib**: Contains the Flutter application code organized into modules for better maintainability.
   - **screens**: Contains the different screens of the application (e.g., authentication, feed, profile).
   - **models**: Contains data models used throughout the application.
-  - **services**: Contains Firebase service classes for authentication, database access, and storage.
   - **widgets**: Contains reusable UI components used across different screens.
 - **assets**: Contains static assets such as images and fonts used in the application.
 
+## Preview
+<!-- First Image -->
+<p align="center">
+  <img src="https://github.com/Dhruv-IGI/instagram-clone/assets/83370198/10619efc-b50f-4010-a5e3-166b09fc0a49" height="700">
+  <img src="https://github.com/Dhruv-IGI/instagram-clone/assets/83370198/082b3797-6b43-4532-8233-9b853b37aacf" height="700">
+  <img src="https://github.com/Dhruv-IGI/instagram-clone/assets/83370198/1def452e-1fbe-484e-9e77-d42c39a8be74" height="700">
+</p>
+
+
 ## Contributing
 Contributions are welcome! Please feel free to open issues for bug fixes or feature requests. Pull requests are also encouraged.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
