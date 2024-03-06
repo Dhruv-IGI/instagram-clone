@@ -1,4 +1,4 @@
-# Dating App UI
+# Instagram Clone
 
 ## Overview
 This Flutter-based Instagram clone app replicates the core functionalities of the popular social media platform, Instagram. It allows users to sign up, log in, share posts, like and comment on posts, follow other users, explore content, and communicate through direct messaging.
